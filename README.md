@@ -1,3 +1,3 @@
-# RetailChurn-SentimentAnalysis
-RetailChurn+SentimentAnalysis 
+# RetailChurn
+RetailChurn
 Env: SnowPark
